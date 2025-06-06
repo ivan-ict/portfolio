@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ivan-ict/portfolio/blob/6477834f8f9d9bc575c99fc835efb9ff7eb9374c/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg)" alt="GitHub license"></a>
+  <a href="https://github.com/ivan-ict/portfolio/blob/6477834f8f9d9bc575c99fc835efb9ff7eb9374c/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license"></a>
   <a href="https://npmjs.com/package/vite"><img src="https://img.shields.io/npm/v/vite.svg" alt="npm package"></a>
   <a href="https://nodejs.org/en/about/previous-releases"><img src="https://img.shields.io/node/v/vite.svg" alt="node compatibility"></a>
 </p>
